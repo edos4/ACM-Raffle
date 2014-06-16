@@ -19,7 +19,7 @@ public final class Main extends JFrame implements ActionListener{
     private static JLabel winLabel = new JLabel();  //winner
     
     public Main() throws FileNotFoundException{
-      frame = new JFrame("CS Conference Raffle Draw");  
+      frame = new JFrame("ACM Raffle Draw");  
       frame.setSize(1027, 768);
       frame.setLayout(null);
       frame.setLocationRelativeTo(null);    //center
