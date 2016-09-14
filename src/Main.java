@@ -10,6 +10,7 @@ import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 //test git
+//ed pogi
 
 public final class Main extends JFrame implements ActionListener{
     private static final long serialVersionUID = 1L;    
